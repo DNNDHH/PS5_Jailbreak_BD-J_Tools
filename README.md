@@ -17,13 +17,19 @@ add
 
 # Source code from
 
-John Törnblom
+# Andy Nguyen
+@theflow0
+https://github.com/TheOfficialFloW
+
+# John Törnblom
 https://github.com/john-tornblom
 
-SiSTR0
+# SiSTR0
 https://github.com/SiSTR0
 
-logic-68
+# logic-68
 https://github.com/logic-68
 
+# ナイスなすさん🍆
+https://twitter.com/Ifaicompa
 
