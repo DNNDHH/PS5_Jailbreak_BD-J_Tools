@@ -57,3 +57,5 @@ https://github.com/logic-68
 # ナイスなすさん🍆
 https://twitter.com/Ifaicompa
 
+https://www.youtube.com/channel/UCYrYMcRev8CkEqwBz3RKvUQ
+
