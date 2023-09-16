@@ -1,3 +1,7 @@
+
+<img width="100%" style="border: 1px solid black" src="https://imgur.com/a/Iqq7Tck">
+
+
 # PS5 Jailbreak BD-J Tools
 
 v0.2 BETA
@@ -14,6 +18,23 @@ add
 [+] OS hardware information
 
 [+] ELF parasitic process  9021 PORT
+
+[+] ELF loading server on port 9020
+
+[+] JAR loading server on port
+
+[+] LUA loading server on port
+
+
+
+
+
+
+
+
+
+
+
 
 # Source code from
 
