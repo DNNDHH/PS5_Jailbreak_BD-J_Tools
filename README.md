@@ -20,9 +20,9 @@ add
 
 [+] ELF loading server on port 9020
 
-[+] JAR loading server on port
+[+] JAR loading server on port 9025
 
-[+] LUA loading server on port
+[+] LUA loading server on port 9938
 
 
 
@@ -40,8 +40,10 @@ add
 # Source code from
 
 # Andy Nguyen
-@theflow0
 https://github.com/TheOfficialFloW
+# @theflow0
+https://twitter.com/theflow0
+
 
 # John Törnblom
 https://github.com/john-tornblom
